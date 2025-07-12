@@ -2,7 +2,7 @@
 
 A real-time chat application built with Next.js frontend and Node.js backend using WebSocket communication.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bmYJQOk9SSg)
 
 ## Features
 
@@ -144,8 +144,9 @@ You can customize the application by:
 
 # Future Work
 - Improve styles.
+- Typing Indicators - Show when someone is typing
 - Add your own name in chat app.
-- be able to send emojis.
+- Message Reactions - Add emoji reactions to messages (👍, ❤️, 😂)
 
 
 ## License
